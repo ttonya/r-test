@@ -1,50 +1,50 @@
 {
     "data":[ 
         {
-        "center_lat": 40.755555,
-        "center_lng": -73.982333,
-        "length": 3,
-        "width": 2,
+        "center_lat": 40.759347, 
+        "center_lng": -73.983469,
+        "length": 0.07,
+        "width": 0.1,
         "yaw_angle": 40,
         "color": "pink"
         },
         {
-            "center_lat": 40.618419,
-            "center_lng": -74.128992,
-            "length": 5,
-            "width": 3,
+            "center_lat": 40.756763, 
+            "center_lng": -73.981796,
+            "length": 0.05,
+            "width": 0.03,
             "yaw_angle": 20,
             "color": "red" 
         },
         {
-            "center_lat": 40.710291, 
-            "center_lng": -73.941261,
-            "length": 4,
-            "width": 2,
+            "center_lat":40.756942, 
+            "center_lng": -73.977268,
+            "length": 0.04,
+            "width": 0.02,
             "yaw_angle": 35,
             "color": "blue" 
         },
         {
-            "center_lat": 40.747660, 
-            "center_lng": -73.914875,
-            "length": 6,
-            "width": 4,
+            "center_lat": 40.750251, 
+            "center_lng": -73.980558,
+            "length": 0.06,
+            "width": 0.04,
             "yaw_angle": -20,
             "color": "#3347D6" 
         },
         {
-            "center_lat": 40.721074, 
-            "center_lng": -74.063374,
-            "length": 4,
-            "width": 2,
+            "center_lat": 40.752058, 
+            "center_lng": -73.982840,
+            "length": 0.04,
+            "width": 0.02,
             "yaw_angle": 60,
             "color": "yellow" 
         },
         {
-            "center_lat": 40.702074595148446, 
-            "center_lng": -73.92664552834451,
-            "length": 3,
-            "width": 2,
+            "center_lat": 40.752341,
+            "center_lng":  -73.986144,
+            "length": 0.03,
+            "width": 0.02,
             "yaw_angle": -35,
             "color": "green"
         }
